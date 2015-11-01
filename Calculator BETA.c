@@ -19,8 +19,8 @@ int CalculatorWordProcess(long long int *data,long long int *data2)
 	val1 = 0;
 	val2 = 0;
 	
-	char word2[MAX] = { "最初に足したい数字を入力してね。\n" };
-	char word3[MAX] = { "次に足したい数字を入力してね。\n" };
+	char word2[MAX] = { "最初に計算したい数字を入力してね。\n" };
+	char word3[MAX] = { "次に計算したい数字を入力してね。\n" };
 	char word4[MAX] = { "ピ・ピ・ピ・ピ、計算した結果は\n" };
 	
 
